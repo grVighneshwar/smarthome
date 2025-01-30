@@ -1,4 +1,4 @@
-# smarthome
+# Smarthome
 
 ##  Introduction
 This project is a **Home Automation System** using **Arduino**, which controls home appliances like **lights, fans, and doors** based on various environmental factors such as temperature, motion detection, gas leakage, and ambient light.
@@ -10,20 +10,8 @@ This project is a **Home Automation System** using **Arduino**, which controls h
 - **Motion-Based Door Control**: Opens/closes doors using a PIR sensor.
 - **LCD Display**: Shows system status in real time.
 
-##  Components Used
-| Component        | Quantity | Description |
-|-----------------|----------|-------------|
-| **Arduino**     | 1        | Microcontroller (Specify model) |
-| **PIR Sensor**  | 1        | Detects human presence |
-| **Ultrasonic Sensor** | 1 | Measures distance |
-| **Gas Sensor**  | 1        | Detects harmful gases |
-| **LDR Sensor**  | 1        | Detects ambient light |
-| **Temperature Sensor** | 1 | Reads room temperature |
-| **Servo Motors** | 2 | Controls door movement |
-| **LCD Display (16x2)** | 1 | Displays system status |
-| **Bulbs & Fans** | 2 each  | Appliances being controlled |
-
 ##  Circuit Diagram
+![image](https://github.com/user-attachments/assets/2179e308-f0f8-4aee-84ee-87d435320226)
 
 
 ##  How It Works
@@ -33,10 +21,6 @@ This project is a **Home Automation System** using **Arduino**, which controls h
 4. **Motion Detection**: The PIR sensor detects movement and opens/closes the door.
 5. **LCD Display**: Shows real-time values of sensors and system status.
 
-
-
-
-##  **Components_List.md**
 
 # Components List
 
